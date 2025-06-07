@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = blandel.nils@gmail.com
+	name = nils blandel
